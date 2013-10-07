@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+	version="1.1"
+	id="Layer_1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0px"
+	y="0px"
+	width="512px"
+	height="512px"
+	viewBox="0 0 512 512"
+	enable-background="new 0 0 512 512"
+	xml:space="preserve"
+>
+	<g id="Grid">
+		<rect x="0" fill="none" stroke="#A9CCDB" stroke-miterlimit="10" width="512" height="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="32" x2="512" y2="32"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="64" x2="512" y2="64"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="96" x2="512" y2="96"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="128" x2="512" y2="128"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="160" x2="512" y2="160"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="192" x2="512" y2="192"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="224" x2="512" y2="224"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="256" x2="512" y2="256"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="288" x2="512" y2="288"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="320" x2="512" y2="320"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="352" x2="512" y2="352"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="384" x2="512" y2="384"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="416" x2="512" y2="416"/>
+		<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="0" y1="448" x2="512" y2="448"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="480" x2="512" y2="480"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="32" y1="0" x2="32" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="64" y1="0" x2="64" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="96" y1="0" x2="96" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="128" y1="0" x2="128" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="160" y1="0" x2="160" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="192" y1="0" x2="192" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="224" y1="0" x2="224" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="256" y1="0" x2="256" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="288" y1="0" x2="288" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="320" y1="0" x2="320" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="352" y1="0" x2="352" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="384" y1="0" x2="384" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="416" y1="0" x2="416" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="448" y1="0" x2="448" y2="512"/>
+		<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="480" y1="0" x2="480" y2="512"/>
+	</g>
+	<path d="M399.709 83.259h-60.835v61.182h14.077c-0.686 22.816 -3.082 38.723 -7.846 50.417c-5.823 14.217 -14.811 24.388 -33.82 37.395 c-13.665 9.261 -25.888 18.749 -36.116 29.98V63.952h21.583L259.047 -0.79399999999998l-37.699 64.746h21.572v264.375 c-10.137 -11.025 -22.217 -20.369 -35.693 -29.494c-19.006 -13.006 -27.997 -23.178 -33.821 -37.395c-5.307 -13.017 -7.662 -31.272 -7.999 -58.446 c12.28 -6.002 20.757 -18.582 20.757 -33.169c0 -20.398 -16.534 -36.934 -36.936 -36.934c-20.396 0 -36.936 16.536 -36.936 36.934 c0 14.631 8.531 27.241 20.871 33.22c0.367 28.868 2.573 50.919 10.316 70.408c8.48 21.416 23.97 37.541 45.665 52.088 c19.64 13.295 32.608 24.773 40.995 39.361c5.475 9.512 9.421 21.002 11.52 36.389c-24.049 6.611 -41.743 28.566 -41.743 54.711 c0 31.373 25.433 56.797 56.802 56.797c31.356 0 56.788 -25.424 56.788 -56.797c0 -24.896 -16.046 -45.996 -38.336 -53.664v-42.676 c0.351 -28.947 5.122 -47.285 13.206 -61.344c8.395 -14.574 21.351 -26.057 40.999 -39.357c21.685 -14.542 37.178 -30.665 45.663 -52.083 c7.013 -17.659 9.479 -37.411 10.16 -62.433h14.512V83.259z"/>
+</svg>
